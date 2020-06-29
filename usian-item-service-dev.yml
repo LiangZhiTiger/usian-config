@@ -2,7 +2,7 @@ server:
   port: 8090
 spring:
   application:
-    name: usian-item-service
+    name: usian-item-service2
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/usian?characterEncoding=UTF-8
